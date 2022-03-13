@@ -21,6 +21,7 @@ gallery:
 ---
 
 Template Post
+<!--more-->
 
 Gallery:
-{% raw %}{% include gallery %}{% endraw %}
+{% include gallery %}
