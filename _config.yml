@@ -1,1 +1,11 @@
 theme: jekyll-theme-midnight
+
+title: Fahrradtour zum Nordkapp
+locale: de_DE
+logo: # filename of a logo image that has been placed into your images directory
+
+owner:
+  name: Mirko Häberlin
+  avatar: bio-photo.jpg
+  bio: "Das ist mein Tagebuch für die Reise zum Nordkapp"
+  email: mirko.haeberlin@gmail.com
