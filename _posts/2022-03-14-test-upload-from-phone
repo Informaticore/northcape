@@ -3,9 +3,6 @@ title: "Tag 1: Testupload"
 excerpt_separator: "<!--more-->"
 toc: true
 toc_label: "Inhalt"
-header:
-  overlay_filter: 0.5
-  caption: "Testupload"
 ---
 
 Template Post
