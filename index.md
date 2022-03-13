@@ -1,5 +1,7 @@
 ---
-layout: blog
+layout: page
 title: Home
 subtitle: Fahrradtour zum Nordkapp
 ---
+
+Fickt euch alle ins knie
