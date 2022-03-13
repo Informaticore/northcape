@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Hello World"
-date:   2022-03-13
-description: "Hello World description"
-image: 'images/PXL_20220227_125220709-01.jpeg'
-published: true
+title: Creating a post series
+description: How to create a post series with Bulma Clean Theme
+date: 2021-10-30 09:00:07
 ---
 
 ## Hello World 
