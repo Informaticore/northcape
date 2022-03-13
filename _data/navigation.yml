@@ -1,5 +1,4 @@
-# Site navigation links
-- title: Home
-  url: /
-- title: My Bike
-  url: /mybike/
+- name: Home
+  link: /
+- name: My Bike
+  link: /mybike/
