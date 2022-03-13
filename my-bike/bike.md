@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Bike
-menubar: my-bike
 show_sidebar: false
 ---
 
