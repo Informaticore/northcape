@@ -1,4 +1,5 @@
-- name: Tagebuch
-  link: /blog/
-- name: My Bike
-  link: /my-bike/
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about/
