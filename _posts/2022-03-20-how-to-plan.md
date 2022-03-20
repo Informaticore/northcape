@@ -60,6 +60,7 @@ In einem anderen Video habe ich dann zufällig von [ridewithgps](https://ridewit
 Um zu wissen wo in etwa ich nach dem nächsten Schlafplatz suchen muss, habe ich bei Google Maps das Tool zum Messen von entfernungen verwendet. Damit kann man die Luftline oder auch grob einer Straße entlang die Entfernung messen. 70km war immer mein grober Richtwert um in einem Umkreis zu suchen. Einfach Rechtsklick in Google Maps und "Measure distance", was auf deutsch dann vermutlich "Distanz messen" heißen könnte. Dannach kann man einfach durch Linksklick Punkte auswählen und die Länge der Strecke wird unten angezeigt. Einfach aber genial!
 
 ![](../assets/images/20032022/distance-feature.jpg) 
+
 ![](../assets/images/20032022/distance-feature2.jpg)
 
 Ich würde aber davon abraten z.b. Google Maps zu verwenden um die Strecke selbst anzulegen, der kennt oft keine Fahrradwege oder Wege die nicht auf der Straße verlaufen. Je nachdem welche Navi-App man benutzt, kann man diese auch oft mit anderen Apps verknüpfen, damit hat man eigentlich eine gute Liste an Apps und Tools die man potentiell verwenden kann. Hier mal die Liste aus der ELEMNT App von Wahoo:
