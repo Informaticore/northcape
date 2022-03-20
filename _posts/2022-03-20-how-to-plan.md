@@ -36,7 +36,7 @@ Nachdem ich mir die Nationalparks angeschaut habe die ich gerne sehen will, war 
 
 Für den Abschnitt in Deutschland habe ich es mir leichter gemacht, hier habe ich einfach den Berlin - Usedom Radweg rausgesucht und als Teil meiner Strecke genommen und in dieser [Sammlung](https://ridewithgps.com/collections/41811?privacy_code=B80mCsT3rHb7SHLb) bei RideWithGPS angelegt. 
 
-### Wo schalfen? 
+### Wo schlafen? 
 
 Also habe ich mich an die Frage gemacht: Campingplatz oder im Wald? Wie findet man sowas? 
 Nach etwas Recherche, bin ich auf ein paar Seiten gestoßen. Die beste Option für Schweden war [map.campwild.org](https://map.campwild.org/), hier kann man super viele Möglichkeiten für's Wildcampen finden. Hütten, Sitzbänke, Unterstände, Feuerstellen... größtenteils auch Bebildert. 
