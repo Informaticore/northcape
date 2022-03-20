@@ -18,9 +18,9 @@ Vielleicht hilft es ja eines Tages jemandem dabei, auch so eine Reise zu planen!
 
 Die gesamte Strecke von Berlin zum Nordkapp beträgt in etwa 3000km+
 
-![3000km+](../assets/images/20032022/full-length-maps.JPG "3000km+")
+![3000km+](../assets/images/20032022/full-length-maps.JPG)
 
-### Wo geht's lang?
+## Wo geht's lang?
 
 Meine erste Idee war es, durch Norwegen zu fahren aber ich habe relativ schnell realisiert, dass 1. das Fahrrad sehr schwer wird und 2. es in Norwegen sehr stark hoch und runter geht. Ich hatte mir dann ein paar Videos von Reisen zum Nordkapp angeschaut und so ziemlich alle sind durch Schweden gefahren, also hab ich mich dann ebenfalls entschieden durch Schweden zu fahren. Schweden ist deutlich flacher als Norwegen aber mindestens genauso schön.
 
@@ -36,7 +36,7 @@ Nachdem ich mir die Nationalparks angeschaut habe die ich gerne sehen will, war 
 
 Für den Abschnitt in Deutschland habe ich es mir leichter gemacht, hier habe ich einfach den Berlin - Usedom Radweg rausgesucht und als Teil meiner Strecke genommen und in dieser [Sammlung](https://ridewithgps.com/collections/41811?privacy_code=B80mCsT3rHb7SHLb) bei RideWithGPS angelegt. 
 
-### Wo schlafen? 
+## Wo schlafen? 
 
 Also habe ich mich an die Frage gemacht: Campingplatz oder im Wald? Wie findet man sowas? 
 Nach etwas Recherche, bin ich auf ein paar Seiten gestoßen. Die beste Option für Schweden war [map.campwild.org](https://map.campwild.org/), hier kann man super viele Möglichkeiten für's Wildcampen finden. Hütten, Sitzbänke, Unterstände, Feuerstellen... größtenteils auch Bebildert. 
@@ -49,7 +49,7 @@ Wenn es dabei kein Ergebniss gab, habe ich auch nach Campingplätzen gesucht. F�
 
 Damit hatte ich am Ende einen Mix aus Wildcampen und Zeltplätzen/Campingplätzen für die Strecke zur Auswahl. Auf so einer langen strecke will man sicherlich auch mal eine richtige Toilette sehen oder eine Dusche, deshalb sind Campingplätze wohl eine sinnvolle Option.
 
-### Alle Informationen zusammenbringen 
+## Alle Informationen zusammenbringen 
 
 Mit den so gesammelten Informationen war ich bereit die Strecke komplett zusammenzustellen. Als aller erstes habe ich mit [Komoot](https://www.komoot.de/) versucht die Strecke zu planen aber irgendwie war das mit Komoot anstrengend und nicht so richtig intuitiv. Ich wollte auch eine Kollektion/Sammlung haben, in der ich alle Abschnitte beisammen habe, dieses Feature kostet allerdings ein Abo bei Komoot. Grundsätzlich kein Problem aber dafür war ich nicht zufrieden genug mit dem Tool.
 
@@ -64,8 +64,10 @@ Um zu wissen wo in etwa ich nach dem nächsten Schlafplatz suchen muss, habe ich
 
 Ich würde aber davon abraten z.b. Google Maps zu verwenden um die Strecke selbst anzulegen, der kennt oft keine Fahrradwege oder Wege die nicht auf der Straße verlaufen. Je nachdem welche Navi-App man benutzt, kann man diese auch oft mit anderen Apps verknüpfen, damit hat man eigentlich eine gute Liste an Apps und Tools die man potentiell verwenden kann. Hier mal die Liste aus der ELEMNT App von Wahoo:
 
-![](../assets/images/20032022/app001.png) 
-![](../assets/images/20032022/app002.png)
+<figure class="third">
+	<img src="../assets/images/20032022/app001.png">
+	<img src="../assets/images/20032022/app002.png">
+</figure>
 
 Mit diesen Tools, Webseiten und Karten sollte man seine Reise gut planen können - es kommt ja doch immer alles anders, also lieber nicht zu viel planen ;)
 
