@@ -18,9 +18,9 @@ Vielleicht hilft es ja eines Tages jemandem dabei, auch so eine Reise zu planen!
 
 Die gesamte Strecke von Berlin zum Nordkapp beträgt in etwa 3000km+
 
-![3000km+](/assets/images/20032022/full-length-maps.JPG "3000km+")
+![3000km+](/assets/images/20032022/full-length-maps.jpg "3000km+")
 
-### Wo geht'S lang?
+### Wo geht's lang?
 
 Meine erste Idee war es, durch Norwegen zu fahren aber ich habe relativ schnell realisiert, dass 1. das Fahrrad sehr schwer wird und 2. es in Norwegen sehr stark hoch und runter geht. Ich hatte mir dann ein paar Videos von Reisen zum Nordkapp angeschaut und so ziemlich alle sind durch Schweden gefahren, also hab ich mich dann ebenfalls entschieden durch Schweden zu fahren. Schweden ist deutlich flacher als Norwegen aber mindestens genauso schön.
 
@@ -41,7 +41,7 @@ Für den Abschnitt in Deutschland habe ich es mir leichter gemacht, hier habe ic
 Also habe ich mich an die Frage gemacht: Campingplatz oder im Wald? Wie findet man sowas? 
 Nach etwas Recherche, bin ich auf ein paar Seiten gestoßen. Die beste Option für Schweden war [map.campwild.org](https://map.campwild.org/), hier kann man super viele Möglichkeiten für's Wildcampen finden. Hütten, Sitzbänke, Unterstände, Feuerstellen... größtenteils auch Bebildert. 
 
-![](/assets/images/20032022/wildcamping-map.JPG)
+![](/assets/images/20032022/wildcamping-map.jpg)
 
 Bei sowas wollte ich mich allerdings nicht nur auf eine Karte verlassen, nachher fährt man 90km und kommt irgendwo an, wo es nichts gibt. Deshalb habe ich zusätzlich die Standorte noch mit [openstreetmap](https://www.openstreetmap.org/) oder mit Statelitenbildern auf Google Maps abgeglichen. 
 
@@ -55,15 +55,15 @@ Mit den so gesammelten Informationen war ich bereit die Strecke komplett zusamme
 
 In einem anderen Video habe ich dann zufällig von [ridewithgps](https://ridewithgps.com/) gehört, womit ich dann direkt mal eine Probestrecke angelegt habe. Das Tool fand ich sofort deutlich angenehmer als Komoot, ebenfalls wird hier die [opencyclemap](https://www.opencyclemap.org/) verwendet, was ich sehr gut fand. Man kann mit ridewithgps sogar kostenfrei eine Sammlung anlegen, in der die Abschnitte richtig schick dargestellt werden.
 
-![](/assets/images/20032022/map.JPG)
+![](/assets/images/20032022/map.jpg)
 
 Um zu wissen wo in etwa ich nach dem nächsten Schlafplatz suchen muss, habe ich bei Google Maps das Tool zum Messen von entfernungen verwendet. Damit kann man die Luftline oder auch grob einer Straße entlang die Entfernung messen. 70km war immer mein grober Richtwert um in einem Umkreis zu suchen. Einfach Rechtsklick in Google Maps und "Measure distance", was auf deutsch dann vermutlich "Distanz messen" heißen könnte. Dannach kann man einfach durch Linksklick Punkte auswählen und die Länge der Strecke wird unten angezeigt. Einfach aber genial!
 
-![](/assets/images/20032022/distance-feature.JPG) ![](/assets/images/20032022/app002.JPG)
+![](/assets/images/20032022/distance-feature.jpg) ![](/assets/images/20032022/app002.jpg)
 
 Ich würde aber davon abraten z.b. Google Maps zu verwenden um die Strecke selbst anzulegen, der kennt oft keine Fahrradwege oder Wege die nicht auf der Straße verlaufen. Je nachdem welche Navi-App man benutzt, kann man diese auch oft mit anderen Apps verknüpfen, damit hat man eigentlich eine gute Liste an Apps und Tools die man potentiell verwenden kann. Hier mal die Liste aus der ELEMNT App von Wahoo:
 
-![](/assets/images/20032022/app001.JPG) ![](/assets/images/20032022/app002.JPG)
+![](/assets/images/20032022/app001.jpg) ![](/assets/images/20032022/app002.jpg)
 
 Mit diesen Tools, Webseiten und Karten sollte man seine Reise gut planen können - es kommt ja doch immer alles anders, also lieber nicht zu viel planen ;)
 
