@@ -64,7 +64,7 @@ Um zu wissen wo in etwa ich nach dem nächsten Schlafplatz suchen muss, habe ich
 
 Ich würde aber davon abraten z.b. Google Maps zu verwenden um die Strecke selbst anzulegen, der kennt oft keine Fahrradwege oder Wege die nicht auf der Straße verlaufen. Je nachdem welche Navi-App man benutzt, kann man diese auch oft mit anderen Apps verknüpfen, damit hat man eigentlich eine gute Liste an Apps und Tools die man potentiell verwenden kann. Hier mal die Liste aus der ELEMNT App von Wahoo:
 
-<figure class="third">
+<figure class="half">
 	<img src="../assets/images/20032022/app001.png">
 	<img src="../assets/images/20032022/app002.png">
 </figure>
