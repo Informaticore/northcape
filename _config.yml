@@ -78,10 +78,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: false
       share: true
       related: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -89,6 +90,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
 
 category_archive:
   type: liquid
