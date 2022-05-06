@@ -1,3 +1,3 @@
-# Just a GitHub PAge
+# Just a GitHub Page
 
 https://informaticore.github.io/northcape/
